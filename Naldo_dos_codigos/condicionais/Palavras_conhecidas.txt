@@ -1,0 +1,25 @@
+hardware: é a parte fisica do computador
+
+opensource: programas de codigo aberto, liberados para todos poderem baixar modificar e atualizar
+um exemplo de programa opensource é o editor de imagem gratuito GIMP, onde o codigo dele é liberado para que qualquer pessoa possa usar e modificar para ajudar o desenvolvimento
+
+byte: composto por 8 bit é a unidade do computador
+
+mesh: grupo de dispositivos com conectivdade
+
+css: cascade style sheet é usado para estilizar lingugens de marcação como HTML
+
+ide: Integrated Development Environment, ambiente de desenvolvimento integrado, usado pra criar em determinadas linguagens como android
+
+html: Hiper text marcation language, usada no esqueleto do site (não é uma linguagem de programação)
+
+bit:  Bit é uma abreviação de binary digit (dígito binário). É a menor unidade de armazenamento do pc, podendo ter dois valores possiveis 0 ou 1
+
+Shell: é uma interface de usuário para acessar os serviços de um sistema operacional, Cmd ou Windows powershell, ou no MAC.OS e Linux é Terminal
+
+SSH: Secure Shell (casca de proteção) um protocolo usado para entrar na hospedagem de um site e fazer os mais variados tipos de mudanças nas configurações.
+Além disso, é possível realizar a transferência de arquivos do seu computador 
+
+opensource: programas de codigo aberto, liberados para todos poderem baixar modificar e atualizar
+um exemplo de programa opensource é o editor de imagem gratuito GIMP, 
+onde o codigo dele é liberado para que qualquer pessoa possa usar e modificar para ajudar o desenvolvimentopara o servidor e acionar comandos    

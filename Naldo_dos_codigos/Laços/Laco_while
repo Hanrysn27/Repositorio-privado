@@ -1,0 +1,19 @@
+const entrada = require('readline-sync')
+
+//Laço while
+
+let teste = 0
+while(teste < 3)
+{
+    let senha = entrada.question('Senha: ')
+    if(senha == '123')
+    {
+        console.log('Bem vindo')
+        teste = 3
+    }
+    else
+    {
+        console.log('Senha incorreta')
+        teste++
+    }
+}

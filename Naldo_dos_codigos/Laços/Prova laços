@@ -1,0 +1,45 @@
+Use quais e quantos laços quiser e achar necessários para resolver:
+Você foi contratado para criar um sistema de
+caixa para um mercado de sua cidade que deve seguir os seguintes requisitos.
+
+
+·     
+O sistema não necessitará de login.
+
+
+·     
+O sistema deve iniciar mostrando as seguintes
+opções para o usuário
+
+
+1)   
+Passar compra
+
+
+2)   
+Sair
+
+
+·       Caso o usuário
+escolha uma opção que não existe no sistema, informe, “opção incorreta” e
+encerre o programa.
+
+
+·       Ao
+selecionar a opção “1) Passar compra”, o usuário deve inserir o nome, preço e
+quantidade do item. Ao final da inserção deve ser perguntado se o usuário
+deseja inserir outro produto ou finalizar a compra. Caso ele opte por inserir
+outro produto repita a pergunta, repita esse processo até que ele selecione a
+opção de finalizar a compra.
+
+
+Ao optar por finalizar a compra, o sistema
+deve perguntar se a compra será finalizada com o valor integral ou será
+aplicado um desconto. Caso opte por desconto, pergunte o valor que será
+descontado, aplique o desconto e exiba o total. Caso opte por finalizar sem
+desconto, apenas exiba o valor total da compra. Em ambos os casos não se
+esqueça de considerar o valor e quantidade dos produtos ao realizar o cálculo.
+
+
+·       Ao
+selecionar a opção “2) Sair” encerre o programa.
